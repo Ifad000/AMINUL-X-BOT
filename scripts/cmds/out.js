@@ -9,7 +9,7 @@ module.exports = {
 		author: "Sandy",
 		countDown: 5,
 		role: 2,
-		shortDescription: "bot will leave gc",
+		shortDescription: "🤧 ki bal felas bar bar🥺🥺",
 		longDescription: "",
 		category: "admin",
 		guide: {
